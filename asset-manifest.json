@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.ffe34ec7.css",
-    "main.js": "/static/js/main.c50d981b.js",
+    "main.js": "/static/js/main.40bf4fd1.js",
     "static/js/787.2dcca737.chunk.js": "/static/js/787.2dcca737.chunk.js",
     "static/media/cycleshop.png": "/static/media/cycleshop.04d36a145336c454a9a3.png",
-    "static/media/pharmeasy.png": "/static/media/pharmeasy.10c48c378eb13fe2dca2.png",
     "static/media/bedbath.png": "/static/media/bedbath.db8ebdc57f067af8a2d8.png",
     "static/media/taxtim.png": "/static/media/taxtim.056c6d0ebed474aac19b.png",
+    "static/media/syloan.png": "/static/media/syloan.80a7c68c291dede53993.png",
     "static/media/Sujal-Sahu.pdf": "/static/media/Sujal-Sahu.45752ee2dc9d1f35eabb.pdf",
     "static/media/Profile.jpeg": "/static/media/Profile.397b35257172ce42c84a.jpeg",
     "index.html": "/index.html",
     "main.ffe34ec7.css.map": "/static/css/main.ffe34ec7.css.map",
-    "main.c50d981b.js.map": "/static/js/main.c50d981b.js.map",
+    "main.40bf4fd1.js.map": "/static/js/main.40bf4fd1.js.map",
     "787.2dcca737.chunk.js.map": "/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffe34ec7.css",
-    "static/js/main.c50d981b.js"
+    "static/js/main.40bf4fd1.js"
   ]
 }
